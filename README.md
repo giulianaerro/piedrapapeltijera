@@ -6,3 +6,4 @@ Para crear esta aplicación se utilizan los siguientes elementos:
 -State
 -Pages
 -Components
+-Web Storage
